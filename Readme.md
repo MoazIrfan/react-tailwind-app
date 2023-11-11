@@ -5,8 +5,7 @@
 
 <br>
 
-- ☀️ Get started with your React project with TailwindCSS.
-- 🌐 Instatly set up React Vite project with TailwindCSS.
+ ☀️ Instatly set up React Vite project with TailwindCSS.
 
 <br>
 
@@ -18,12 +17,7 @@
 npx react-tailwind-app@latest
 ```
 
-<br>
-
-[![⚙️](https://github.com/MoazIrfan/wc-cli/raw/main/.github/usage.png)](./../../)
-
-
-[![📟](https://raw.githubusercontent.com/MoazIrfan/react-tailwind-app/main/.github/react-tailwind-app.gif)](./../../)
+[![📟](https://raw.githubusercontent.com/MoazIrfan/react-tailwind-app/main/.github/react-tailwind-app-gif.gif)](./../../)
 
 
 <br>
