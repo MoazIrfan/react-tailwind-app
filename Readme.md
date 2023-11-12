@@ -1,11 +1,11 @@
 
 # react-tailwind-app
 
-> Start you React project with TailwindCSS.
+> Start your React project with TailwindCSS.
 
 <br>
 
- ☀️ Instatly set up React Vite project with TailwindCSS.
+Instantly set up React Vite project with TailwindCSS.
 
 <br>
 

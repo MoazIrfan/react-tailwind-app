@@ -45,6 +45,9 @@ module.exports = async () => {
     const tailwindConfigSource = path.join(templateFolderPath, 'tailwind.config.js');
     const tailwindConfigDestination = path.join(cwd, projectName, 'tailwind.config.js');
 
+    const readmeSource = path.join(templateFolderPath, 'Readme.md');
+    const readmeDestination = path.join(cwd, projectName, 'README.md');
+
     const indexCssSource = path.join(templateFolderPath, 'index.css');
     const indexCssDestination = path.join(cwd, projectName, 'src', 'index.css');
     const appTsxSource = path.join(templateFolderPath, 'App.tsx');
@@ -54,9 +57,17 @@ module.exports = async () => {
     const githubSvgDestination = path.join(cwd, projectName, 'src', 'assets', 'github.svg');
 
     await fs.copy(tailwindConfigSource, tailwindConfigDestination, { overwrite: true });
+    await fs.copy(readmeSource, readmeDestination, { overwrite: true });
     await fs.copy(indexCssSource, indexCssDestination, { overwrite: true });
     await fs.copy(appTsxSource, appTsxDestination, { overwrite: true });
     await fs.copy(githubSvgSource, githubSvgDestination, { overwrite: true });
+
+    // Replace {{name}} in README.md with the project name
+    const readmePath = path.join(cwd, projectName, 'README.md');
+    const readmeContent = await fs.readFile(readmePath, 'utf-8');
+    const updatedReadmeContent = readmeContent.replace(/{{name}}/g, projectName);
+    await fs.writeFile(readmePath, updatedReadmeContent);
+
 		spinner.succeed('Template path configured successfully.');
 
     console.log(`\nDone. Now run:\n`);
