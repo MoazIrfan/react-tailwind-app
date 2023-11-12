@@ -1,7 +1,6 @@
 const execa = require('execa');
 const ora = require('ora');
 const fs = require('fs-extra');
-const copy = require('copy-template-dir');
 
 const cwd = process.cwd();
 const path = require('path');
