@@ -1,7 +1,7 @@
 {
   "name": "react-tailwind-app",
   "description": "Create React Vite project with TailwindCSS.",
-  "version": "1.1.2",
+  "version": "1.2.0",
 	"license": "MIT",
   "repository": "moazirfan/react-tailwind-app",
 	"author": {
@@ -27,6 +27,7 @@
     "format": "prettier --write \"./**/*.{js,json}\""
   },
   "dependencies": {
+    "await-to-js": "^3.0.0",
     "chalk": "^4.1.1",
 		"cli-meow-help": "^2.0.2",
 		"cli-welcome": "^2.2.2",

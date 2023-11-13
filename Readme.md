@@ -7,6 +7,8 @@
 
 Instantly set up React Vite project with TailwindCSS.
 
+One command to create a new React Vite project with TailwindCSS configured.
+
 <br>
 
 [![📟](https://github.com/MoazIrfan/wc-cli/raw/main/.github/install.png)](./../../)
