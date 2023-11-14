@@ -21,10 +21,18 @@ npx react-tailwind-app@latest
 
 [![📟](https://raw.githubusercontent.com/MoazIrfan/react-tailwind-app/main/.github/react-tailwind-app-gif.gif)](./../../)
 
+<br>
+
+[![📃](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/conduct.png)](./../../)
+
+## Contributing Guidelines
+
+Make sure you read the [contributing guidelines](https://github.com/MoazIrfan/react-tailwind-app/blob/main/contributing.md) before opening a PR.
 
 <br>
 
 [![📃](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/license.png)](./../../)
+
 ## License
 
 MIT © [Moaz Irfan](https://twitter.com/MoazIrfan/)
