@@ -5,9 +5,7 @@
 
 <br>
 
-Instantly set up React Vite project with TailwindCSS.
-
-One command to create a new React Vite project with TailwindCSS configured.
+Instantly start a new React Vite project with TailwindCSS configured, with just one command.
 
 <br>
 
