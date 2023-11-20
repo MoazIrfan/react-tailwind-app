@@ -9,7 +9,7 @@ Instantly start a new React Vite project with TailwindCSS configured, with just 
 
 <br>
 
-[![📟](https://github.com/MoazIrfan/wc-cli/raw/main/.github/install.png)](./../../)
+[![📟](https://github.com/MoazIrfan/react-tailwind-app/raw/main/.github/install.png)](./../../)
 
 ## Install
 
@@ -21,7 +21,7 @@ npx react-tailwind-app@latest
 
 <br>
 
-[![📃](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/conduct.png)](./../../)
+[![📃](https://raw.githubusercontent.com/MoazIrfan/react-tailwind-app/main/.github/conduct.png)](./../../)
 
 ## Contributing Guidelines
 
@@ -29,15 +29,15 @@ Make sure you read the [contributing guidelines](https://github.com/MoazIrfan/re
 
 <br>
 
-[![📃](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/license.png)](./../../)
+[![📃](https://raw.githubusercontent.com/MoazIrfan/react-tailwind-app/main/.github/license.png)](./../../)
 
 ## License
 
-MIT © [Moaz Irfan](https://twitter.com/MoazIrfan/)
+MIT © [Moaz Irfan](https://moazirfan.com)
 
 <br>
 
-[![🙌](https://github.com/MoazIrfan/wc-cli/raw/main/.github/connect.png)](./../../)
+[![🙌](https://github.com/MoazIrfan/react-tailwind-app/raw/main/.github/connect.png)](./../../)
 
 ## Connect
 
@@ -50,7 +50,7 @@ MIT © [Moaz Irfan](https://twitter.com/MoazIrfan/)
         <img alt="Twitter @MoazIrfan" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" />
     </a>&nbsp;
     <a href="https://moazirfan.com/">
-        <img alt="Blog: moazirfan.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&style=flat" />
+        <img alt="Blog: moazirfan.com" align="center" src="https://img.shields.io/badge/MY%20WEBSITE-gray.svg?colorB=6666ff&style=flat" />
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/moazirfan/">
         <img alt="LinkedIn @MoazIrfan" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" />
