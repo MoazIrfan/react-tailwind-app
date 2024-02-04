@@ -3,7 +3,7 @@
 
 [![DOWNLOADS](https://img.shields.io/npm/dt/react-tailwind-app?label=DOWNLOADS%20%20%E2%9D%AF&colorA=24292f&colorB=003462&style=flat)](https://www.npmjs.com/package/react-tailwind-app)
 
-> Start your React project with TailwindCSS.
+> NPM package to start your React project with TailwindCSS.
 
 <br>
 
