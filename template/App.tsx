@@ -14,7 +14,7 @@ function App() {
           <img src={githubLogo} className="logo" alt="GitHub logo" />
         </a>
       </div>
-      <p className='text-lg text-gray-500'>Start React Vite project with TailwindCSS.</p>
+      <p className='text-lg text-gray-500'>Start New React Vite project with TailwindCSS.</p>
     </>
   )
 }
